@@ -18,7 +18,7 @@ var image2 = document.querySelectorAll("img")[1];
 image2.setAttribute("src", randomImageSource2);
 
 
-//Win Situations
+//Win Situation
 if (randomNumber1 > randomNumber2){
     document.querySelector("h1").innerHTML="🚩 Player 1 wins";
 }
