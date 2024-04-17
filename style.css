@@ -7,7 +7,6 @@
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
 body {
@@ -32,10 +31,18 @@ img {
   width: 80%;
 }
 
+#button{
+  font-size: 1.2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
 }
+
